@@ -17,7 +17,7 @@ I build software, run projects, and make photos and films. Right now I'm a PM in
 | [akfoundation](https://github.com/Ashwin-Krishan/akfoundation) | Website for A&K Foundation, a Markham non-profit running the Aayakalaihal Arangam music studio |
 | [svvphotos](https://github.com/Ashwin-Krishan/svvphotos) | Event photo gallery for Sri Varasiththi Vinaayagar Hindu Temple of Toronto |
 | [weve-site](https://github.com/Ashwin-Krishan/weve-site) | Companion page for WEVE, a Luanti digital twin of Western's engineering buildings |
-| [jhlc](https://github.com/jhlc95batchweb/jhlc) | School alumni website (collaborator) |
+| [JHLC](https://jhlc.vercel.app) | School alumni website (collaborator) |
 
 ### Tools I use
 
